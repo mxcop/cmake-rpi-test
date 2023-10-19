@@ -1,0 +1,6 @@
+[
+    {
+        "name": "RaspPi4",
+        "toolchainFile": "../toolchain.cmake"
+    }
+]
